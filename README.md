@@ -1,0 +1,2 @@
+# bot
+Classadoo generated repo
